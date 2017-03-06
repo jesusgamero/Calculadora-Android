@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="8807707881477"
+    token="-3282251347022634507" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="6679217255731"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\2DAW\AndroidStudioProjects\CalculadoraAndroid\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7344228541909"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\2DAW\AndroidStudioProjects\CalculadoraAndroid\app\build\intermediates\builds\debug\7344228541909\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8098721989432"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\2DAW\AndroidStudioProjects\CalculadoraAndroid\app\build\intermediates\builds\debug\8098721989432\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8290692218169"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\2DAW\AndroidStudioProjects\CalculadoraAndroid\app\build\intermediates\builds\debug\8290692218169\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8438519703770"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\2DAW\AndroidStudioProjects\CalculadoraAndroid\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="8807707881477" />
+
+</instant-run>
